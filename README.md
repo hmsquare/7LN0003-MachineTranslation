@@ -4,4 +4,4 @@ This repository documents the results of the presentation project and essay for 
 
 The presentation slides could be found [here](7LN003_Presentation.pdf) and the 2020 submission of the essay could be found [here](7LN003_Essay.pdf).
 
-This project is replicated in 2023 as a record of the evolution of the concerned online translation services.
+This project is [replicated in 2023](7LN0003_23ver.pdf) as a record of the evolution of the concerned online translation services.
